@@ -1,9 +1,3 @@
-/*
- * File: locate.c
- * Auth: Alex Yu
- *       Brennan D Baraban
- */
-
 #include "shell.h"
 
 char *fill_path_dir(char *path);

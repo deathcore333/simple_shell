@@ -1,9 +1,3 @@
-/*
- * File: linkedlist.c
- * Auth: Alex Yu
- *       Brennan D Baraban
- */
-
 #include "shell.h"
 
 alias_t *add_alias_end(alias_t **head, char *name, char *value);

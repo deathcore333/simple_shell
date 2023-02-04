@@ -1,9 +1,3 @@
-/*
- * File: split.c
- * Auth: Alex Yu
- *       Brennan D Baraban
- */
-
 #include "shell.h"
 
 int token_len(char *str, char *delim);

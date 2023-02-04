@@ -1,9 +1,3 @@
-/*
- * File: errors.c
- * Auth: Alex Yu
- *       Brennan D Baraban
- */
-
 #include "shell.h"
 
 int num_len(int num);

@@ -1,11 +1,6 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
-/*
- * File: shell.h
- * Auth: Alex Yu
- *       Brennan D Baraban
- */
 
 #include <fcntl.h>
 #include <signal.h>

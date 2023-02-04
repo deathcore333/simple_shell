@@ -1,9 +1,3 @@
-/*
- * File: str_funcs2.c
- * Auth: Alex Yu
- *       Brennan D Baraban
- */
-
 #include "shell.h"
 
 char *_strchr(char *s, char c);
